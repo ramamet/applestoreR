@@ -1,0 +1,12 @@
+Package: applestoreR
+Type: Package
+Title: Apple itunes mobile app statistics
+Version: 0.1
+Author: Ramanathan Perumal <ramamet4@gmail.com>
+Maintainer: Ramanathan Perumal <ramamet4@gmail.com>
+License: CC0
+Description: A data only package containing more than 11000 mobile application detailed information web scraped from Apple website (until 2017).
+Depends:
+    R (>= 2.10)
+LazyData: true
+RoxygenNote: 6.0.1
