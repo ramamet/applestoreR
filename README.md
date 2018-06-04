@@ -1,5 +1,4 @@
 # applestoreR
------------------
 ### Apple itunes mobile app statistics
 
 This dataset contains more than 11000 Apple itunes application details. The data extracted from the 
